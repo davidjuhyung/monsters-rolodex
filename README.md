@@ -4,5 +4,4 @@ A simple React web app that practices the traditional "parent to child" uni-dire
 
 
 
-**Active Deployment:**
-https://davidjuhyung.github.io/monsters-rolodex/
+> **Active Deployment:** https://davidjuhyung.github.io/monsters-rolodex/
